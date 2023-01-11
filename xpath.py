@@ -39,3 +39,4 @@ url_categorias= "https://ramenparados.com/category/noticias/"
 url_wk="https://wakaisekai.blogspot.com/"
 url_ann="https://www.animenewsnetwork.com/"
 scrapping_text(url_ann,xpath_wk)
+# xpath: https://devhints.io/xpath#class-check
